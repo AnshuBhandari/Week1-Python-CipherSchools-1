@@ -3,8 +3,8 @@ print(1)
 
 #Print can exhibit any number of argument
 print(1,2,3,4,5,6)
-print(1,2,3,"anshu",3.4,1+5j)
-print(1,2,3,"anshu",3.4,1+5j,sep=",")
+print(1,2,3,"anugya",3.4,1+5j)
+print(1,2,3,"anugya",3.4,1+5j,sep=",")
 
 print("Hello")
 print("World!")
