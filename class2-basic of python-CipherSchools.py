@@ -12,7 +12,8 @@ Every line executed in python is either
 '''
 
 """
-My Name Is Manoranjan Sahoo
+My Name Is anugya verma
+
 """
 
 ############################Data Types#######################################
